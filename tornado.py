@@ -1,4 +1,4 @@
-=================== new script =========================
+#=================== new script =========================
 
 # Example (using Tornado database module)
 # After init (e.g. db = Database()) you will get all meta info about tables stored in db.meta attribute
