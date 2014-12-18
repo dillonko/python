@@ -1,4 +1,4 @@
-#tutorial1.py - Michael Curry
+#tutorial1.py 
 
 def tut():
 	print("Welcome to the tutorial, In this tutorial I will show you how broadcast and \nrecieve information from servers.")
